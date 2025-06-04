@@ -1,15 +1,25 @@
-# Python Discord Bot
+Gambly Wambly Discord Bot
 
-This is a starting point for making your own Discord bot using Python and the [discordpy](https://discordpy.readthedocs.io/) library.
-Read [their getting-started guides](https://discordpy.readthedocs.io/en/stable/#getting-started) to get the most out of this template.
+Features:
+---------
+- 🎵 Music: Play, pause, resume, stop, skip, queue (YouTube, SoundCloud, direct links)
+- 💬 Chat: OpenAI-powered chat with memory per user/channel
+- 🧠 Therapy: Dedicated channel for gambling addiction support
+- 🃏 Blackjack: Basic strategy advice and AI-powered responses
+- 🎙️ Voice: Voice chat, TTS, speech-to-text (OpenAI Whisper)
+- 🛡️ Moderation: Ban, kick, timeout, purge, anti-spam, logging
+- 🎭 Roles: Self-assignable fun roles (sharmota, gay, etc.)
+- 🔥 Roasts: AI-generated roasts for mentioned users
+- 🖼️ Image: AI image analysis (OpenAI Vision)
+- 🎲 Fun: Jokes, facts, quotes, trivia, polls, dice, coin flip
+- 📊 Stats: XP, levels, leaderboards, user/server info
 
-## Getting Started
-
-To get set up, you'll need to follow [these bot account setup instructions](https://discordpy.readthedocs.io/en/stable/discord.html),
-and then copy the token for your bot and added it as a secret with the key of `TOKEN` in the "Secrets (Environment variables)" panel.
-
-## FAQ
-
-If you get the following error message while trying to start the server: `429 Too Many Requests` (accompanied by a lot of HTML code), 
-try the advice given in this Stackoverflow question:
-https://stackoverflow.com/questions/66724687/in-discord-py-how-to-solve-the-error-for-toomanyrequests
+Roadmap:
+--------
+- [ ] Modularize code (split features into separate files)
+- [ ] Add unit tests for core features
+- [ ] Add web dashboard for bot management
+- [ ] More music sources (Spotify, etc.)
+- [ ] Customizable command prefixes
+- [ ] Improved error handling and logging
+- [ ] User-configurable memory and settings

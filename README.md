@@ -1,4 +1,5 @@
-Gambly Wambly Discord Bot
+This discord bot was programmed to work in a specific discord server and not tested in any other server, please read and understand the code in order to adapt it to yours.
+Adaptable version is coming soon.
 
 Features:
 ---------
